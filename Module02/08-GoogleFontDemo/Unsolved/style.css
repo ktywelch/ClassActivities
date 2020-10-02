@@ -1,0 +1,20 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+*{
+    font-family: Romanesco,cursive;
+}
+h1
+{
+    font-family: Adamina,'Gill Sans';  
+}
+.thought1{
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.thought2{
+    font-family: 'Alex Brush', courier;
+}
